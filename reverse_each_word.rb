@@ -3,6 +3,5 @@ array = phrase.split("")
 puts array
 def reverse_each_word(phrase)
   array = phrase.split("")
-  NewArray = reverse.array()
-  return NewArray()
+  puts array()
 end
